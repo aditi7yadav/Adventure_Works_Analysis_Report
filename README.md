@@ -1,5 +1,6 @@
 # Adventure_Works_Analysis_Report
-![image](https://github.com/user-attachments/assets/e62a532f-cbda-4070-b906-2b8e8ad13ada)
+![AdventureWorks_Logo](https://github.com/user-attachments/assets/29bd54ad-4459-4ed3-83c7-6286451cec6b)
+
 
 A Microsoft Power BI business intelligence dashboard for AdventureWorks, a fictional global manufacturing company that produces cycling equipment and accessories.
 
