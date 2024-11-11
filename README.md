@@ -6,11 +6,16 @@
 
 
 
-A Microsoft Power BI business intelligence dashboard for AdventureWorks, a fictional global manufacturing company that produces cycling equipment and accessories.
+Adventure Works Bike Shop Power BI Project Overview
+This Power BI project provides a detailed analysis and visualization of the Adventure Works Bike Shop dataset, demonstrating key business insights and performance metrics. Developed as part of the "Power BI Desktop 2023" course by Maven Analytics, this project highlights a variety of advanced data analytics and visualization techniques.
 
-The dataset was supplied with the [Maven Analytics Power BI Desktop course](https://mavenanalytics.io/course/microsoft-power-bi-desktop). This data was derived from the [AdventureWorks sample databases](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure) available from Microsoft.
+Key features of the project include:
 
-The customer base is spread across 6 countries on 3 continents: Australia, Canada, France, Germany, United Kingdom and United States. Sales and return data is available for the period between 01/01/2020 and 30/06/2022. Customer profiles include date of birth, annual income, education level, number of children, occupation and homeowner status. 
+Interactive Dashboards: Custom-built dashboards that showcase important KPIs and metrics related to the bike shop's operations.
+Data Modeling: Robust data models that integrate multiple data sources to offer a comprehensive view of the business.
+In-Depth Reports: Analytical reports focusing on key areas such as sales performance, customer demographics, inventory management, and more.
+Advanced Visualizations: A diverse set of visual elements, including bar charts, line graphs, pie charts, and geographic maps, designed to present data in an easily understandable format.
+This project serves as a practical demonstration of Power BI capabilities and offers a detailed analysis of the business operations of a retail bike shop
 
 <img alt="AdventureWorks Executive Dashboard" src="images/screenshots/exec_dashboard.gif">
 
