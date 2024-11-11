@@ -82,3 +82,18 @@ This project involved the following tasks:
 
 - While the United States is the largest market with 8,700 orders and $7.94 million in total revenue, The Australian market has the largest revenue per customer at $2,131.
 - 
+
+How to Download and View the Power BI Project Locally
+To explore the Adventure Works Power BI project on your local machine, follow these steps:
+
+Step 1: Download the Project File
+
+Navigate to the GitHub repository where the project is hosted.
+Look for the file with the .pbix extension in the files section.
+Click on the file and then on the Download button to save it to your computer.
+Step 2: Open the Project in Power BI Desktop
+
+Launch Power BI Desktop on your computer.
+Select 'Open' and navigate to the .pbix file you downloaded.
+Open the file to load the project.
+You can now explore and interact with the Adventure Works Power BI project on your device.
